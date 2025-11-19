@@ -1,5 +1,5 @@
 # Clase 1 – 18/11/2025
-**Tema:** Crear Logos e Intinerarios de Viaje en GPT  
+**Tema:** Crear Logos e Itinerarios de Viaje en GPT  
 **Duración:** 1h 30min  
 
 🎥 **Video de la clase:**  
